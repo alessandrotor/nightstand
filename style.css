@@ -1,0 +1,4 @@
+.legno {
+    background: linear-gradient(135deg, #987c61 0%, #987c61 20%, #bf9b7a 20%, #bf9b7a 40%, #987c61 40%, #987c61 60%, #bf9b7a 60%, #bf9b7a 80%, #987c61 80%, #987c61 100%);
+    background-size: 35px 20px; /* Dimensioni delle "venature" del legno */
+}
